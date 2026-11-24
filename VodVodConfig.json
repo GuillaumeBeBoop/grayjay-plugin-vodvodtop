@@ -1,0 +1,23 @@
+{
+  "name": "VodVod",
+  "description": "Plugin Grayjay pour vodvod.top",
+  "author": "Guillaume",
+  "authorUrl": "",
+  "sourceUrl": "https://raw.githubusercontent.com/GuillaumeBeBoop/grayjay-vodvod-plugin/refs/heads/main/VodVodConfig.json",
+  "repositoryUrl": "",
+  "scriptUrl": "./VodVodScript.js",
+  "version": 1,
+  "iconUrl": "./icon.png",
+  "id": "14927651-adfe-47ec-a647-fe9a6a4f7c6f",
+  "scriptSignature": "jjT+cep4ri++7LSHXNCtDrX2AzfUy7g7Cm1sa5gLGdYh6/hn3N9e+NhRSXRgVWj/l2I8INRn6VGg5eA6F67DkPBEESp9l6VMWXBB2W0hEVkkzr2uZwkC5iQln7o04h4o4D6QiJXDEJBfOExUYMwcC8fdcREO32uM6I4FmNGMheQH5FV2MZJ5dJm14LtMAmZEzu34vbNBbq4Sr3DdB7PCSoEAz9i6ZTEQQUQFnY0m5WlYvNfUWyEuuwi46NSMgf5Gy86t/Edjrz/J5XqNQ6zChjC7dNObOF0mIW9GGdSz+7i76ennN1NDDJDaofLx+6IvhgIJ58YfcWpvL897x9dW3w==",
+  "scriptPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxz3vqXwFaJkCNsF+Ey9P9IClT6s4XpbiYumPitMudPC8CKJXT9anRyJOF/mAkmYNbtkKs/y2/uu7Epx9HDAzcKGls3p60MrvzEJXRSS34jfR5jvHFljdfNadlFXt+Itc4Qo0eHszKTX4TIPbP+szcxeZX4gu8BJADJIE0Lhl4ElFAQ3/+nD4ILCRmaNlN1x6GPfaunPBaGwwRdIwTbARUs04DyKaTCC6X1ZlRfKIRsNA+AGZVhcYNBVeTJwyKaBrSnhapwHyX1YPhFfMsRuRZ/rSvl6310m07fr6AzQkj5d+Ich+6/M7RV9ST+PjORfCIKN/OairTWmmA6vDn2s1+QIDAQAB",
+  "packages": [
+    "Http"
+  ],
+  "allowEval": false,
+  "allowUrls": [
+    "vodvod.top",
+    "api.vodvod.top",
+    "static-cdn.jtvnw.net"
+  ]
+}
